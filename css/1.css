@@ -1,0 +1,88 @@
+* {
+	margin: 0px;
+	padding: 0px;
+
+}
+
+header{
+	background-color:#2f3a3e;
+	padding: 30px 20px;
+	border-right: 5px solid white;
+}
+header .mautrang{
+	border-right: 5px solid white;
+}
+header img {
+	border-radius: 50%;
+	width: 150px;
+	border: 5px solid white;
+
+}
+header .tieude{
+	text-align: center;
+	color: white;
+	font-family: 'Bungee Inline', cursive;
+
+
+}
+.content .contac{
+	text-align: center;
+
+}
+.content .contac div.cam{
+	background: #f7991d;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+	font-size: 22px;
+
+}
+.contac p{
+	font-weight: bold;
+	font-size: 18px;
+	    margin-top: 1rem;
+}
+.contac span{
+	font-family: 'Source Code Pro', monospace;
+
+}
+p.xanh{
+	color:#72ae38;
+}
+p.do{
+	color:#e45b62;
+}
+p.cam{
+	color:#e2a139;
+}
+p.blue{
+	color:#88d0e8;
+}
+.content .contac div.hong{
+	background: #f1585a;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+	font-size: 22px;
+
+}
+.xanhphai{
+	background: #82cee5;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+	font-size: 22px;
+
+}
+
+.col-sm-8 p.html{
+	font-family: 'Bungee Inline', cursive;
+
+}
+.xanhphaitrai{
+		background: #81c242;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+	font-size: 22px;
+}
